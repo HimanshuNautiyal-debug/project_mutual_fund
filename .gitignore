@@ -1,0 +1,16 @@
+*.pyc
+.DS_Store
+
+.vscode/
+
+.ipynb_checkpoint
+
+.env/
+
+.db
+
+*.log
+
+
+*.temp
+
